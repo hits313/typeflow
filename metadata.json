@@ -1,0 +1,5 @@
+{
+  "name": "TypeFlow: Protocol VEX",
+  "description": "An immersive scrollytelling typing trainer featuring a 3D reactive AI agent, custom shaders, and GSAP motion choreography.",
+  "requestFramePermissions": []
+}
